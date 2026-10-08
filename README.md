@@ -47,6 +47,12 @@ Multi-container infrastructure built from custom images. A hardened Debian
 server with encrypted LVM, firewall rules, a strict sudo and password policy,
 AppArmor and scripted monitoring.
 
+## Selected work
+
+- [call-me-maybe](https://github.com/driss-lktf/call-me-maybe) — natural language to JSON function calls, valid by construction rather than by prompting
+- [pac-man](https://github.com/driss-lktf/pac-man) — the arcade game on a drawing layer restricted to MLX-equivalent primitives, every shape rasterised by hand
+- [codexion](https://github.com/driss-lktf/codexion) — concurrency simulation with FIFO and EDF scheduling over a min-heap priority queue
+
 ## Currently
 
 Working through the 42 common core. Open to internships and junior positions in

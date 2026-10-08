@@ -50,6 +50,7 @@ AppArmor and scripted monitoring.
 ## Selected work
 
 - [call-me-maybe](https://github.com/driss-lktf/call-me-maybe) — natural language to JSON function calls, valid by construction rather than by prompting
+- [rag](https://github.com/driss-lktf/rag) — retrieval-augmented generation over a large codebase, combining lexical and semantic search
 - [pac-man](https://github.com/driss-lktf/pac-man) — the arcade game on a drawing layer restricted to MLX-equivalent primitives, every shape rasterised by hand
 - [codexion](https://github.com/driss-lktf/codexion) — concurrency simulation with FIFO and EDF scheduling over a min-heap priority queue
 

@@ -29,6 +29,14 @@ shape — lines, discs, ellipses, filled polygons — is rasterised by hand from
 `put_pixel`, then packaged into a standalone executable. Also a maze generator
 and a routing optimiser over a capacitated network.
 
+### Go
+
+`Go` `net` `IPC` `concurrency`
+
+An IPC message queue with named topics, prefix-filtered subscriptions and
+resumable committed offsets, covered by 27 test files. Also a multiplayer text
+adventure served over a hand-written TCP protocol, standard library only.
+
 ### Machine learning
 
 `constrained decoding` `tokenisation` `information retrieval`
@@ -49,6 +57,7 @@ AppArmor and scripted monitoring.
 
 ## Selected work
 
+- [agent-smith](https://github.com/driss-lktf/agent-smith) — a code-agent that writes Python, runs it in a sandbox we built, and fixes real bugs from SWE-bench Verified
 - [call-me-maybe](https://github.com/driss-lktf/call-me-maybe) — natural language to JSON function calls, valid by construction rather than by prompting
 - [rag](https://github.com/driss-lktf/rag) — retrieval-augmented generation over a large codebase, combining lexical and semantic search
 - [pac-man](https://github.com/driss-lktf/pac-man) — the arcade game on a drawing layer restricted to MLX-equivalent primitives, every shape rasterised by hand

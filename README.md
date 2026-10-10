@@ -58,6 +58,7 @@ AppArmor and scripted monitoring.
 ## Selected work
 
 - [agent-smith](https://github.com/driss-lktf/agent-smith) — a code-agent that writes Python, runs it in a sandbox we built, and fixes real bugs from SWE-bench Verified
+- [treenity](https://github.com/driss-lktf/treenity) — an IPC message queue in Go: named topics, prefix-filtered subscriptions, resumable offsets
 - [call-me-maybe](https://github.com/driss-lktf/call-me-maybe) — natural language to JSON function calls, valid by construction rather than by prompting
 - [rag](https://github.com/driss-lktf/rag) — retrieval-augmented generation over a large codebase, combining lexical and semantic search
 - [pac-man](https://github.com/driss-lktf/pac-man) — the arcade game on a drawing layer restricted to MLX-equivalent primitives, every shape rasterised by hand
